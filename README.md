@@ -1,3 +1,3 @@
-# dophing
+# Dolphing Memory
 
-A new Flutter project.
+Sadece yardımlaşmak ve paylaşmak için geliştirilen tatlış bir uygulama.
